@@ -1,7 +1,7 @@
 custom-keyboard-layout
 ======================
 
-My custom keyboard layout. QWERTZ - US based - umlaut compatible.
+My custom keyboard layout. QWERTY - US based - umlaut compatible.
 Made for German Developers.
 
 Just drop the `*.keylayout` file in the `~/Library/Keyboard Layouts` or `/Library/Keyboard Layouts` and log out an in again.
@@ -20,7 +20,6 @@ etc…
     alt + c = ©
     alt + t = ™
     alt + e = €
-  
 
 # Exponents
 
